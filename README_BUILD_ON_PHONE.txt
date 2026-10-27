@@ -1,1 +1,0 @@
-Build APK on GitHub Actions (Android phone): Upload all project files including .github/workflows/build-apk.yml to a GitHub repository, run Actions > Build Android APK > Run workflow, then download the artifact. This is a debug APK for testing. Firebase services and security rules must be configured separately.
